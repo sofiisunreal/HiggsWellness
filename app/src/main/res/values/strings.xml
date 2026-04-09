@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">HiggsWellness</string>
+    <string name="healthy_recipes">
+Healthy Recipes  \n
+
+1. Fruit Salad \n
+A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. A mix of fresh fruits like bananas, apples, and oranges. \n\n\n
+
+2. Grilled Chicken \n
+Low-fat grilled chicken served with vegetables. \n\n\n
+
+3. Vegetable Stir Fry  \n
+Carrots, broccoli, and peppers cooked lightly.  \n\n\n
+
+4. Oatmeal Breakfast  \n
+Oats with milk and fruits.  \n\n\n
+
+5. Avocado Toast \n
+Whole grain bread topped with avocado.  \n\n\n
+
+6. Boiled Eggs  \n
+Rich in protein and easy to prepare. \n\n\n
+
+7. Smoothie Bowl \n
+Blended fruits with yogurt and nuts.  \n\n\n
+
+8. Brown Rice and Beans  \n
+Healthy and full of fiber.  \n\n\n
+
+9. Baked Fish  \n
+Fish baked with lemon and spices.  \n\n\n
+
+10. Greek Yogurt with Honey  \n
+Good for digestion and very nutritious. \n\n\n
+</string>
+
+    <string name="nutrition">
+Nutrition Advice \n\n
+
+1. Fruit Salad \n
+A mix of fresh fruits like bananas, apples, and oranges. Great for vitamins, minerals, and fiber.\n\n\n
+
+2. Grilled Chicken \n
+Low-fat grilled chicken served with vegetables. Excellent source of lean protein.\n\n\n
+
+3. Vegetable Stir Fry \n
+Carrots, broccoli, and peppers cooked lightly. Packed with antioxidants and fiber.\n\n\n
+
+4. Oatmeal Breakfast \n
+Oats with milk and fruits. Supports heart health and keeps you full.\n\n\n
+
+5. Avocado Toast \n
+Whole grain bread topped with avocado. Rich in healthy fats and fiber.\n\n\n
+
+6. Boiled Eggs \n
+Rich in protein and easy to prepare. Helps muscle growth and brain function.\n\n\n
+
+7. Smoothie Bowl \n
+Blended fruits with yogurt and nuts. Provides protein, vitamins, and probiotics.\n\n\n
+
+8. Brown Rice and Beans \n
+Healthy and full of fiber. Great combination of complex carbs and protein.\n\n\n
+
+9. Baked Fish \n
+Fish baked with lemon and  spices. Excellent omega-3 fatty acids source.\n\n\n
+
+10. Greek Yogurt with Honey \n
+Good for digestion and very nutritious. Rich in protein and probiotics.\n\n\n
+
+11. Almonds \n
+A handful of almonds daily. Supports heart health and keeps you energized.\n\n\n
+
+12. Spinach Salad \n
+Spinach, cherry tomatoes, cucumbers, and olive oil. High in iron and vitamins.\n\n\n
+
+13. Quinoa Bowl \n
+Quinoa with vegetables and chickpeas. Complete protein with fiber.\n\n\n
+
+14. Cottage Cheese \n
+Low-fat cottage cheese with fruits. High protein and calcium.\n\n\n
+
+15. Lentil Soup \n
+Warm lentil soup with spices. Excellent source of plant protein and fiber.\n\n\n
+
+16. Berries Mix \n
+Blueberries, raspberries, and strawberries. Rich in antioxidants and vitamins.\n\n\n
+
+17. Sweet Potato \n
+Baked sweet potato. High in fiber and vitamin A.\n\n\n
+
+18. Chia Pudding \n
+Chia seeds soaked in milk or yogurt. Rich in omega-3s and fiber.\n\n\n
+
+19. Turkey Wrap \n
+Whole wheat wrap with turkey and veggies. Lean protein and complex carbs.\n\n\n
+
+20. Green Tea\n
+Unsweetened green tea. Boosts metabolism and rich in antioxidants.\n\n\n
+</string>
+
+    <string name="meditation">
+        Welcome to Our daily meditation \n \n
+        1.Sit in a comfortable position where your legs and hands have consistent bloodflow. \n \n \n
+        2.Do guided breaths as you close ur eyes and feel ur body parts.\n \n \n
+        3.Close ur eyes and let your thoughts flow until you feel like the load is starting to reduce.\n \n \n
+        4.At this point you can start to imagine a really calm place in your mind where everything seems seemless.\n \n \n
+        5.You can do guided meditation with music or without..you can search these things on Youtube.\n \n \n
+        6.We should strive to make this a habit as it enables you to deal with stress and things you may not even know.\n \n \n
+    </string>
+    <string name="hydration">
+        Welcome to Hydration Center \n \n
+        1.An average human being needs at least 1.5L a day. This varies with ones body weight and gender.\n \n \n
+        2.Maintaining proper hydration has very many benefits such as clear skin, weight loss and even improves gut health.\n \n \n
+        3.For those who struggle with drinking plain water, you can add lemon or blueberry to add the taste.\n \n \n
+        4.Water alone is a very underrated beauty hack and secret.\n\n\n
+        5.Most doctors recommend regular water drinking to avoid diseases such as kidney stones and the rest,\n \n\n
+        6.We should strive to drink as much water as we possibly can.\n \n \n
+    </string>
+    <string name="Exercise">Welcome to your exercise corner. \n \n
+Exercise plays a key role in maintaining a healthy body and a clear mind. \n
+It helps build strength, improve endurance, and boost your overall mood. \n
+Regular physical activity can reduce stress, improve sleep, and increase confidence. \n \n
+Staying active is not always easy, especially on days when you feel tired or unmotivated. \n
+However, discipline and consistency will always take you further than temporary motivation. \n
+Progress takes time, so be patient with yourself and trust the process.\n \n
+That being said:\n
+1.Start small, even 10 minutes of movement is better than nothing. \n \n \n
+2.Consistency beats intensity, showing up daily is what truly matters. \n \n \n
+3.Do not compare your journey to others, focus on your own growth. \n \n \n
+4.Listen to your body, rest when needed but do not quit. \n \n \n
+5.Make exercise a habit, not just a one-time effort. \n \n \n
+6.Your future self will thank you for the work you put in today. \n \n \n
+7.Push yourself, but always stay safe and mindful. \n \n \n
+8.Remember that every step forward, no matter how small, is still progress.\n \n \n
+</string>
+
+    <string name="Motivation">
+       Welcome to your motivation corner. \n
+
+This is your space to reset your mindset, refocus your energy, and remind yourself why you started.\n \n
+
+Motivation is not something you can rely on every day.\n
+Some days you will feel inspired and ready to take on anything.\n
+Other days, even the smallest task will feel heavy.\n \n
+
+That is part of the journey.\n
+
+What matters is not how you feel, but what you choose to do despite how you feel.\n \n
+Your actions, even on low-energy days, are what shape your future.\n \n
+
+You are building discipline, resilience, and mental strength every time you keep going.\n \n
+Even when no one sees it. Even when it feels slow.\n
+
+That being said:\n
+
+You do not need perfect conditions to start.\n \n \n
+Action creates momentum, and momentum builds motivation.\n \n \n
+Your “why” should be stronger than your excuses.\n \n \n
+Hard days are not failures, they are part of growth.\n \n \n
+You are allowed to struggle, but you are not allowed to quit.\n \n \n
+Discipline will take you where motivation cannot.\n \n \n
+Focus on what you can control today.\n \n \n
+One step forward is always better than standing still.\n \n \n
+Do not wait for the “right time,” it rarely comes.\n \n \n
+Growth happens outside of your comfort zone.\n \n \n
+You are building a stronger version of yourself every day.\n \n \n
+Keep showing up, even when it feels repetitive.\n \n \n
+Your effort will compound over time.\n \n \n
+Believe in the process, even when results are not immediate.\n \n \n
+You have come further than you think—do not stop now.\n \n \n
+    </string>
+    <string name="Weeklygoals">
+        Welcome to your weekly goals.\n \n
+        In this sector we are going to help you keep in track your weekly goals.\n \n
+        1.please keep in mind that one failed to do task does not mean a failed day!\n \n \n
+        2.Remember your future self will thank you for all this\n \n \n
+        3.Please stay disciplined!\n \n \n
+    </string>
+    <string name="Progress">
+        This progress Corner helps you see how far you have come.\n \n
+        It will help you keep going and give you even more reasons to continue pushing.\n \n \n
+        1.Even if you do not see alot of progress just know that it is never too late to continue pushing.\n \n \n
+        2.Please keep on pushing and even push more after achieving a milestone. \n \n \n
+        3.All the best !\n \n \n
+        4.YOur future self is counting on you.\n \n \n
+    </string>
+</resources>
